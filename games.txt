@@ -1,4 +1,4 @@
-ver:2
+ver:3
 game:id=a&name=Dice Game&ver=1.0&por=true
 game:id=b&name=Puzzle Game&ver=2.0&por=false
 game:id=c&name=Dice Game353&ver=1.0

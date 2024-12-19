@@ -1,2 +1,3 @@
-a:rrr
-b:qqq
+ver:1.01
+game:id=dice&name=Dice Game&ver=1.0&por=true
+game:id=puzzle&name=Puzzle Game&ver=2.0&por=false

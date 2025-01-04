@@ -4,3 +4,5 @@ game:id=garden&name=Garden Match&ver=2.0
 game:id=c&name=Dice Game2353&ver=1.0
 game:id=headsoccor_landscape&name=Header Soccor&ver=1.0
 game:id=crazyfishing&name=Crazy Fishing
+game:id=boatrush&name=Boat Rush
+

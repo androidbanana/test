@@ -6,3 +6,4 @@ game:id=headsoccor_landscape&name=Header Soccor&ver=1.0
 game:id=crazyfishing&name=Crazy Fishing
 game:id=boatrush&name=Boat Rush
 game:id=angryheroes_landscape&name=Angry Heroes
+game:id=UnPuzzleMaster&name=UnPuzzleMaster

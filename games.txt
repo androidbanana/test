@@ -9,5 +9,5 @@ game:id=angryheroes_landscape&name=Angry Heroes
 game:id=UnPuzzleMaster&name=UnPuzzle Master
 game:id=unpuzzlemaster&name=UnPuzzle Master
 game:id=MergeCashPuzzle&name=Merge Cash
-game:id=Jacko Gunner&name=Jack'o Gunner
 game:id=jackogunner&name=Jack'o Gunner
+game:id=tilemaster&name=Tile Master

@@ -12,3 +12,4 @@ game:id=MergeCashPuzzle&name=Merge Cash
 game:id=jackogunner&name=Jack'o Gunner
 game:id=tilemaster&name=Tile Master
 game:id=dogeblocks&name=Doge Blocks
+game:id=basket_goal&name=Basket Goal

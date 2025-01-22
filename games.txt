@@ -11,3 +11,4 @@ game:id=unpuzzlemaster&name=UnPuzzle Master
 game:id=MergeCashPuzzle&name=Merge Cash
 game:id=jackogunner&name=Jack'o Gunner
 game:id=tilemaster&name=Tile Master
+game:id=dogeblocks&name=Doge Blocks

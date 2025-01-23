@@ -15,3 +15,4 @@ game:id=dogeblocks&name=Doge Blocks
 game:id=basket_goal&name=Basket Goal
 game:id=hop_ball&name=Hop Ball
 game:id=hexadice&name=Hexa Dice
+game:id=spin_bowling&name=Spin Bowling

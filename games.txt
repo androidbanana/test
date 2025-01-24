@@ -18,3 +18,4 @@ game:id=hexadice&name=Hexa Dice
 game:id=spin_bowling&name=Spin Bowling
 game:id=room_riddles&name=Room Riddles
 game:id=candy_blocks&name=Candy Blocks
+game:id=one_movement&name=One Movement

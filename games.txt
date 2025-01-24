@@ -23,3 +23,4 @@ game:id=gladiators_landscape&name=Gladiators
 game:id=mergeshooter&name=Merge Shooter
 game:id=balloons_and_scissors&name=Balloons Scissors
 game:id=pushdomfruitblast&name=Push Fruit
+game:id=fruit_crusher&name=Fruit Crusher

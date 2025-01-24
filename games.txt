@@ -22,3 +22,4 @@ game:id=one_movement&name=One Movement
 game:id=gladiators_landscape&name=Gladiators
 game:id=mergeshooter&name=Merge Shooter
 game:id=balloons_and_scissors&name=Balloons Scissors
+game:id=pushdomfruitblast&name=Push Fruit

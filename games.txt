@@ -20,3 +20,4 @@ game:id=room_riddles&name=Room Riddles
 game:id=candy_blocks&name=Candy Blocks
 game:id=one_movement&name=One Movement
 game:id=gladiators_landscape&name=Gladiators
+game:id=mergeshooter&name=Merge Shooter

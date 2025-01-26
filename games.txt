@@ -27,3 +27,4 @@ game:id=fruit_crusher&name=Fruit Crusher
 game:id=stackedanimals&name=Stack Animals
 game:id=sheepandsheep&name=Sheep And Sheep
 game:id=slide_and_unlock&name=Slide Unlock
+game:id=squarefit&name=Square Fit

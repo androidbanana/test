@@ -33,3 +33,4 @@ game:id=mahjong_farm&name=Mahjong Farm
 game:id=slime_quest_water_landscape&name=Slime Quest
 game:id=color_connect_2&name=Color Connect
 game:id=sphere_shift&name=Sphere Shift
+game:id=color_block_puzzle&name=Color Block

@@ -31,3 +31,4 @@ game:id=squarefit&name=Square Fit
 game:id=postmanrun&name=PostMan Run
 game:id=mahjong_farm&name=Mahjong Farm
 game:id=slime_quest_water_landscape&name=Slime Quest
+game:id=color_connect_2&name=Color Connect

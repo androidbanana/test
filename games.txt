@@ -29,3 +29,4 @@ game:id=sheepandsheep&name=Sheep And Sheep
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=squarefit&name=Square Fit
 game:id=postmanrun&name=PostMan Run
+game:id=mahjong_farm&name=Mahjong Farm

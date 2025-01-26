@@ -28,3 +28,4 @@ game:id=stackedanimals&name=Stack Animals
 game:id=sheepandsheep&name=Sheep And Sheep
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=squarefit&name=Square Fit
+game:id=postmanrun&name=PostMan Run

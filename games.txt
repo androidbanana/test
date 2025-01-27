@@ -34,3 +34,4 @@ game:id=slime_quest_water_landscape&name=Slime Quest
 game:id=color_connect_2&name=Color Connect
 game:id=sphere_shift&name=Sphere Shift
 game:id=color_block_puzzle&name=Color Block
+game:id=ping_pong_prodigy&name=PingPong Prodigy

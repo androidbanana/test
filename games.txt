@@ -39,3 +39,4 @@ game:id=skater_boy_journey_landscape&name=Skater Boy
 game:id=racer_training&name=Racer Training
 game:id=finish_the_drawing&name=Finish Drawing
 game:id=seek_find&name=Seek Find
+game:id=foldpaper&name=Fold Paper

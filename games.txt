@@ -37,3 +37,4 @@ game:id=color_block_puzzle&name=Color Block
 game:id=ping_pong_prodigy&name=PingPong Prodigy
 game:id=skater_boy_journey_landscape&name=Skater Boy
 game:id=racer_training&name=Racer Training
+game:id=finish_the_drawing&name=Finish Drawing

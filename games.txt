@@ -25,7 +25,7 @@ game:id=balloons_and_scissors&name=Balloons Scissors
 game:id=pushdomfruitblast&name=Push Fruit
 game:id=fruit_crusher&name=Fruit Crusher
 game:id=stackedanimals&name=Stack Animals
-game:id=sheepandsheep&name=Sheep And Sheep
+game:id=sheepandsheep&name=Sheep & Sheep
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=postmanrun&name=PostMan Run
 game:id=mahjong_farm&name=Mahjong Farm

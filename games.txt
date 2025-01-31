@@ -39,3 +39,4 @@ game:id=racer_training&name=Racer Training
 game:id=finish_the_drawing&name=Finish Drawing
 game:id=seek_find&name=Seek Find
 game:id=foldpaper&name=Fold Paper
+game:id=balloons_and_scissors_landscape&name=Balloons Scissors

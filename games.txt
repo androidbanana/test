@@ -40,3 +40,4 @@ game:id=balloons_and_scissors_landscape&name=Balloons Scissors
 game:id=unpuzzlemaster&name=UnPuzzle Master
 game:id=pipepath_connect&name=PipePath Connect
 game:id=turtlelines&name=Turtle Lines
+game:id=combine_blocks&name=Combine Blocks

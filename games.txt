@@ -41,3 +41,4 @@ game:id=unpuzzlemaster&name=UnPuzzle Master
 game:id=pipepath_connect&name=PipePath Connect
 game:id=turtlelines&name=Turtle Lines
 game:id=combine_blocks&name=Combine Blocks
+game:id=spot&name=Spot Difference

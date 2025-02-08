@@ -43,3 +43,4 @@ game:id=turtlelines&name=Turtle Lines
 game:id=combine_blocks&name=Combine Blocks
 game:id=spot&name=Spot Difference
 game:id=flappy&name=Flappy Copter
+game:id=reversi&name=Reversi

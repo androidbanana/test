@@ -46,3 +46,4 @@ game:id=flappy&name=Flappy Copter
 game:id=reversi&name=Reversi
 game:id=rope_bawling&name=Rope Bawling
 game:id=physics_box_2&name=Physics Box 2
+game:id=full_cup&name=Full Cup

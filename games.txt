@@ -51,3 +51,4 @@ game:id=full_cup&name=Full Cup
 game:id=milk_for_cat&name=Milk For Cat
 game:id=arkanoid_blocks&name=Arkanoid Blocks
 game:id=cut_for_cat&name=Cut For Cat
+game:id=cut_for_cat_2&name=Cut For Cat 2

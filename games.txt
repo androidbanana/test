@@ -53,3 +53,4 @@ game:id=arkanoid_blocks&name=Arkanoid Blocks
 game:id=cut_for_cat&name=Cut For Cat
 game:id=cut_for_cat_2&name=Cut For Cat 2
 game:id=small_archer_2&name=Small Archer 2
+game:id=color_cannon&name=Color Cannon

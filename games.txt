@@ -55,3 +55,4 @@ game:id=cut_for_cat&name=Cut For Cat
 game:id=small_archer_2&name=Small Archer 2
 game:id=color_cannon&name=Color Cannon
 game:id=arrow_shooter&name=Arrow Shooter
+game:id=cut_for_cat_2&name=Cut For Cat 2

@@ -56,3 +56,4 @@ game:id=color_cannon&name=Color Cannon
 game:id=arrow_shooter&name=Arrow Shooter
 game:id=cut_for_cat_2&name=Cut For Cat 2
 game:id=charge_everything&name=Charge Everything
+game:id=balloons_creator&name=Balloons Creator

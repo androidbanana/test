@@ -62,3 +62,4 @@ game:id=cubic_lands&name=Cubic Lands
 game:id=draw_parking&name=Draw Parking
 game:id=enemy_strike&name=Enemy Strike
 game:id=piggy_bank&name=Piggy Bank
+game:id=micro_golf_ball&name=Micro Golf Ball

@@ -72,3 +72,4 @@ game:id=monster_destroyer&name=Monster Destroyer
 game:id=red_rope&name=Red Rope
 game:id=slip_blocks&name=Slip Blocks
 game:id=popcorn_eater&name=Popcorn Eater
+game:id=pinball_rush&name=Pinball Rush

@@ -64,3 +64,4 @@ game:id=enemy_strike&name=Enemy Strike
 game:id=piggy_bank&name=Piggy Bank
 game:id=micro_golf_ball&name=Micro Golf Ball
 game:id=micro_golf_ball_2&name=Micro Golf Ball 2
+game:id=move_the_pin&name=Move The Pin

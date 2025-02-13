@@ -67,3 +67,4 @@ game:id=micro_golf_ball_2&name=Micro Golf Ball 2
 game:id=move_the_pin&name=Move The Pin
 game:id=move_the_pin_2&name=Move The Pin 2
 game:id=impulse_ball&name=Impulse Ball
+game:id=impulse_ball_2&name=Impulse Ball 2

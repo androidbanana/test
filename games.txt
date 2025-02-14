@@ -76,3 +76,4 @@ game:id=pinball_rush&name=Pinball Rush
 game:id=plane&name=Plane Shooter
 game:id=rabbit&carrot&name=Rabbit&Carrot
 game:id=golf_day&name=Golf Day
+game:id=golf_field&name=Golf Field

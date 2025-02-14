@@ -81,3 +81,4 @@ game:id=golf_field&name=Golf Field
 game:id=fruits_galaxy&name=Fruits Galaxy
 game:id=route_digger&name=Route Digger
 game:id=route_digger_2&name=Route Digger 2
+game:id=route_digger_3&name=Route Digger 3

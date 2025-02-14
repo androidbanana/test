@@ -77,3 +77,4 @@ game:id=plane&name=Plane Shooter
 game:id=rabbit&carrot&name=Rabbit&Carrot
 game:id=golf_day&name=Golf Day
 game:id=golf_field&name=Golf Field
+game:id=golf_field_2&name=Golf Field 2

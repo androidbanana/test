@@ -75,3 +75,4 @@ game:id=popcorn_eater&name=Popcorn Eater
 game:id=pinball_rush&name=Pinball Rush
 game:id=plane&name=Plane Shooter
 game:id=rabbit&carrot&name=Rabbit&Carrot
+game:id=golf_day&name=Golf Day

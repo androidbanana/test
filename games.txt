@@ -90,3 +90,4 @@ game:id=red_golf&name=Red Golf
 game:id=happy_filled_glass&name=Happy Filled Glass
 game:id=happy_filled_glass_4&name=Happy Filled Glass 4
 game:id=happy_filled_glass_3&name=Happy Filled Glass 3
+game:id=disk_throw&name=Disk Throw

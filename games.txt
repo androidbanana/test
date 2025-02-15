@@ -88,3 +88,4 @@ game:id=pipe_way&name=Pipe Way
 game:id=space&name=Space
 game:id=red_golf&name=Red Golf
 game:id=happy_filled_glass&name=Happy Filled Glass
+game:id=happy_filled_glass_4&name=Happy Filled Glass 4

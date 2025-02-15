@@ -86,3 +86,4 @@ game:id=two_friends&name=Two Friends
 game:id=mouse&name=Mouse
 game:id=pipe_way&name=Pipe Way
 game:id=space&name=Space
+game:id=red_golf&name=Red Golf

@@ -83,3 +83,4 @@ game:id=route_digger&name=Route Digger
 game:id=route_digger_2&name=Route Digger 2
 game:id=route_digger_3&name=Route Digger 3
 game:id=two_friends&name=Two Friends
+game:id=mouse&name=Mouse

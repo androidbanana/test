@@ -93,3 +93,4 @@ game:id=happy_filled_glass_3&name=Happy Filled Glass 3
 game:id=disk_throw&name=Disk Throw
 game:id=liquid_orange&name=Liquid Orange
 game:id=white_dot&name=White Dot
+game:id=masterfalldown&name=MasterFallDown

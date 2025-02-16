@@ -94,3 +94,4 @@ game:id=disk_throw&name=Disk Throw
 game:id=liquid_orange&name=Liquid Orange
 game:id=white_dot&name=White Dot
 game:id=masterfalldown&name=MasterFallDown
+game:id=filled_glass&name=Filled Glass

@@ -102,3 +102,4 @@ game:id=filled_glass_5_fire_&_ice&name=Filled Glass 5
 game:id=secret_agent&name=Secret Agent
 game:id=side_defense&name=Side Defense
 game:id=path_control&name=Path Control
+game:id=basket_ball&name=Basket Ball

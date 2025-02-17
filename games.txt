@@ -98,8 +98,7 @@ game:id=filled_glass&name=Filled Glass
 game:id=filled_glass_2_no_gravity&name=Filled Glass 2
 game:id=filled_glass_3_portals&name=Filled Glass 3
 game:id=filled_glass_4_colors&name=Filled Glass 4
-game:id=filled_glass_5_fire_&_ice&name=Filled Glass 5
+game:id=filled_glass_5_fire_ice&name=Filled Glass 5 Fire Ice
 game:id=secret_agent&name=Secret Agent
 game:id=path_control&name=Path Control
 game:id=basket_ball&name=Basket Ball
-game:id=filled_glass_5_fire_ice&name=Filled Glass 5 Fire Ice

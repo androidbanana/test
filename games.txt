@@ -96,3 +96,4 @@ game:id=white_dot&name=White Dot
 game:id=masterfalldown&name=MasterFallDown
 game:id=filled_glass&name=Filled Glass
 game:id=filled_glass_2_no_gravity&name=Filled Glass 2
+game:id=filled_glass_3_portals&name=Filled Glass 3

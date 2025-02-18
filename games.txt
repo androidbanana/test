@@ -102,3 +102,4 @@ game:id=secret_agent&name=Secret Agent
 game:id=path_control&name=Path Control
 game:id=basket_ball&name=Basket Ball
 game:id=rabbitcarrot&name=RabbitCarrot
+game:id=golf_field_2&name=Golf Field 2

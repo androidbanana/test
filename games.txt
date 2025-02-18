@@ -93,10 +93,10 @@ game:id=liquid_orange&name=Liquid Orange
 game:id=white_dot&name=White Dot
 game:id=masterfalldown&name=MasterFallDown
 game:id=filled_glass&name=Filled Glass
-game:id=filled_glass_2_no_gravity&name=Filled Glass 2
-game:id=filled_glass_3_portals=Filled Glass 3
-game:id=filled_glass_4_colors&name=Filled Glass 4
-game:id=filled_glass_5_fire_ice&name=Filled Glass 5
+game:id=f2&name=Filled Glass 2
+game:id=f3&name=Filled Glass 3
+game:id=f4&name=Filled Glass 4
+game:id=f5&name=Filled Glass 5
 game:id=secret_agent&name=Secret Agent
 game:id=path_control&name=Path Control
 game:id=basket_ball&name=Basket Ball

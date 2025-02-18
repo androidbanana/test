@@ -102,5 +102,4 @@ game:id=path_control&name=Path Control
 game:id=basket_ball&name=Basket Ball
 game:id=rabbitcarrot&name=RabbitCarrot
 game:id=golf_field_2&name=Golf Field 2
-game:id=ricochet_arrow&name=Ricochet Arrow
 game:id=ricochet_arrow_landscape&name=Ricochet Arrow

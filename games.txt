@@ -105,3 +105,4 @@ game:id=golf_field_2&name=Golf Field 2
 game:id=ricochet_arrow_landscape&name=Ricochet Arrow
 game:id=monster_escape&name=Monster Escape
 game:id=onestroke&name=One Stroke
+game:id=blind_escape_game_landscape&name=Dark Path

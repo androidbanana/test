@@ -108,3 +108,4 @@ game:id=onestroke&name=One Stroke
 game:id=blind_escape_game_landscape&name=Dark Path
 game:id=level_devil_trap_game_landscape&name=Level Devil
 game:id=level_devil_game_landscape&name=Level Devil game
+game:id=paint_sponges_puzzle_landscape&name=Paint Sponges

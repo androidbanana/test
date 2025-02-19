@@ -106,3 +106,4 @@ game:id=ricochet_arrow_landscape&name=Ricochet Arrow
 game:id=monster_escape&name=Monster Escape
 game:id=onestroke&name=One Stroke
 game:id=blind_escape_game_landscape&name=Dark Path
+game:id=level_devil_trap_game_landscape&name=Level Devil

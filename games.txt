@@ -107,3 +107,4 @@ game:id=monster_escape&name=Monster Escape
 game:id=onestroke&name=One Stroke
 game:id=blind_escape_game_landscape&name=Dark Path
 game:id=level_devil_trap_game_landscape&name=Level Devil
+game:id=level_devil_game_landscape&name=Level Devil game

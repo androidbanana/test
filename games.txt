@@ -113,3 +113,4 @@ game:id=rescue_dog&name=Rescue Dog
 game:id=jump_ball_landscape&name=Jump Ball
 game:id=mine_rusher&name=Mine Rusher
 game:id=monster_rush&name=Monster Rush
+game:id=monster_rush_landscape&name=Monster Rush

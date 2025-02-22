@@ -114,3 +114,4 @@ game:id=mine_rusher&name=Mine Rusher
 game:id=monster_rush_landscape&name=Monster Rush
 game:id=sling_tomb&name=Sling Tomb
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
+game:id=happy_filled_glass_2&name=Happy Filled Glass 2

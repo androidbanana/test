@@ -22,7 +22,6 @@ game:id=mergeshooter&name=Merge Shooter
 game:id=pushdomfruitblast&name=Push Fruit
 game:id=fruit_crusher&name=Fruit Crusher
 game:id=stackedanimals&name=Stack Animals
-game:id=sheepandsheep&name=Sheep & Sheep
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=postmanrun&name=PostMan Run
 game:id=mahjong_farm&name=Mahjong Farm
@@ -113,3 +112,4 @@ game:id=rescue_dog&name=Rescue Dog
 game:id=jump_ball_landscape&name=Jump Ball
 game:id=mine_rusher&name=Mine Rusher
 game:id=monster_rush_landscape&name=Monster Rush
+game:id=sling_tomb&name=Sling Tomb

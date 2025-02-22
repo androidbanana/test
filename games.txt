@@ -1,6 +1,5 @@
 ver:5
 game:id=a&name=Dice Game&ver=1.0&por=true
-game:id=garden&name=Garden Match&ver=2.0
 game:id=c&name=Dice Game2353&ver=1.0
 game:id=headsoccor_landscape&name=Header Soccor&ver=1.0
 game:id=crazyfishing&name=Crazy Fishing
@@ -115,3 +114,4 @@ game:id=monster_rush_landscape&name=Monster Rush
 game:id=sling_tomb&name=Sling Tomb
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
 game:id=happy_filled_glass_2&name=Happy Filled Glass 2
+game:id=garden_match_saga&name=Garden Match Saga

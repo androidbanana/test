@@ -113,3 +113,4 @@ game:id=jump_ball_landscape&name=Jump Ball
 game:id=mine_rusher&name=Mine Rusher
 game:id=monster_rush_landscape&name=Monster Rush
 game:id=sling_tomb&name=Sling Tomb
+game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters

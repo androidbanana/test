@@ -110,3 +110,4 @@ game:id=happy_filled_glass_2&name=Happy Filled Glass 2
 game:id=garden_match_saga&name=Garden Match Saga
 game:id=citybuilder&name=City Builder
 game:id=dropnmerge&name=Drop Merge
+game:id=lolo_adventure_landscape_landscape&name=Lolo Adventure

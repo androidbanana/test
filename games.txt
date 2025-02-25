@@ -1,10 +1,4 @@
 ver:5
-game:id=a&name=Dice Game&ver=1.0&por=true
-game:id=c&name=Dice Game2353&ver=1.0
-game:id=headsoccor_landscape&name=Header Soccor&ver=1.0
-game:id=crazyfishing&name=Crazy Fishing
-game:id=boatrush&name=Boat Rush
-game:id=angryheroes_landscape&name=Angry Heroes
 game:id=MergeCashPuzzle&name=Merge Cash
 game:id=jackogunner&name=Jack'o Gunner
 game:id=tilemaster&name=Tile Master
@@ -23,7 +17,6 @@ game:id=fruit_crusher&name=Fruit Crusher
 game:id=stackedanimals&name=Stack Animals
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=postmanrun&name=PostMan Run
-game:id=mahjong_farm&name=Mahjong Farm
 game:id=slime_quest_water_landscape&name=Slime Quest
 game:id=color_connect_2&name=Color Connect
 game:id=sphere_shift&name=Sphere Shift
@@ -115,3 +108,4 @@ game:id=sling_tomb&name=Sling Tomb
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
 game:id=happy_filled_glass_2&name=Happy Filled Glass 2
 game:id=garden_match_saga&name=Garden Match Saga
+game:id=citybuilder&name=City Builder

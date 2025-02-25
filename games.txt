@@ -3,18 +3,14 @@ game:id=MergeCashPuzzle&name=Merge Cash
 game:id=jackogunner&name=Jack'o Gunner
 game:id=tilemaster&name=Tile Master
 game:id=dogeblocks&name=Doge Blocks
-game:id=basket_goal&name=Basket Goal
 game:id=hop_ball&name=Hop Ball
 game:id=hexadice&name=Hexa Dice
-game:id=spin_bowling_landscape&name=Spin Bowling
 game:id=room_riddles&name=Room Riddles
-game:id=candy_blocks&name=Candy Blocks
 game:id=one_movement&name=One Movement
 game:id=gladiators&name=Gladiators
 game:id=mergeshooter&name=Merge Shooter
 game:id=pushdomfruitblast&name=Push Fruit
 game:id=fruit_crusher&name=Fruit Crusher
-game:id=stackedanimals&name=Stack Animals
 game:id=slide_and_unlock&name=Slide Unlock
 game:id=postmanrun&name=PostMan Run
 game:id=slime_quest_water_landscape&name=Slime Quest
@@ -28,42 +24,30 @@ game:id=finish_the_drawing&name=Finish Drawing
 game:id=seek_find&name=Seek Find
 game:id=foldpaper&name=Fold Paper
 game:id=balloons_and_scissors_landscape&name=Balloons Scissors
-game:id=unpuzzlemaster&name=UnPuzzle Master
 game:id=pipepath_connect&name=PipePath Connect
 game:id=turtlelines&name=Turtle Lines
 game:id=combine_blocks&name=Combine Blocks
 game:id=spot&name=Spot Difference
 game:id=flappy&name=Flappy Copter
 game:id=reversi&name=Reversi
-game:id=rope_bawling&name=Rope Bawling
 game:id=rope_bawling_2&name=Rope Bawling 2
 game:id=physics_box_2&name=Physics Box 2
 game:id=full_cup&name=Full Cup
 game:id=milk_for_cat&name=Milk For Cat
 game:id=arkanoid_blocks&name=Arkanoid Blocks
-game:id=cut_for_cat&name=Cut For Cat
 game:id=small_archer_2&name=Small Archer 2
-game:id=color_cannon&name=Color Cannon
-game:id=arrow_shooter&name=Arrow Shooter
 game:id=cut_for_cat_2&name=Cut For Cat 2
 game:id=charge_everything&name=Charge Everything
-game:id=balloons_creator&name=Balloons Creator
-game:id=cowboy_shoot_new&name=Cowboy Shoot
 game:id=cubic_lands&name=Cubic Lands
-game:id=draw_parking&name=Draw Parking
 game:id=enemy_strike&name=Enemy Strike
 game:id=piggy_bank&name=Piggy Bank
-game:id=micro_golf_ball&name=Micro Golf Ball
 game:id=micro_golf_ball_2&name=Micro Golf Ball 2
-game:id=move_the_pin&name=Move The Pin
 game:id=move_the_pin_2&name=Move The Pin 2
 game:id=impulse_ball&name=Impulse Ball
 game:id=impulse_ball_2&name=Impulse Ball 2
-game:id=monster_destroyer&name=Monster Destroyer
 game:id=red_rope&name=Red Rope
 game:id=slip_blocks&name=Slip Blocks
 game:id=popcorn_eater&name=Popcorn Eater
-game:id=pinball_rush&name=Pinball Rush
 game:id=plane&name=Plane Shooter
 game:id=golf_day&name=Golf Day
 game:id=golf_field&name=Golf Field
@@ -76,29 +60,22 @@ game:id=mouse&name=Mouse
 game:id=pipe_way&name=Pipe Way
 game:id=space&name=Space
 game:id=red_golf&name=Red Golf
-game:id=happy_filled_glass&name=Happy Filled Glass
-game:id=happy_filled_glass_4&name=Happy Filled Glass 4
+game:id=happy_filled_glass_2&name=Happy Filled Glass 2
 game:id=happy_filled_glass_3&name=Happy Filled Glass 3
+game:id=happy_filled_glass_4&name=Happy Filled Glass 4
 game:id=disk_throw&name=Disk Throw
 game:id=liquid_orange&name=Liquid Orange
 game:id=white_dot&name=White Dot
-game:id=masterfalldown&name=MasterFallDown
-game:id=filled_glass&name=Filled Glass
 game:id=f2&name=Filled Glass 2
 game:id=f3&name=Filled Glass 3
 game:id=f4&name=Filled Glass 4
 game:id=f5&name=Filled Glass 5
-game:id=secret_agent&name=Secret Agent
 game:id=path_control&name=Path Control
 game:id=basket_ball&name=Basket Ball
 game:id=rabbitcarrot&name=RabbitCarrot
 game:id=golf_field_2&name=Golf Field 2
-game:id=ricochet_arrow_landscape&name=Ricochet Arrow
-game:id=monster_escape&name=Monster Escape
 game:id=onestroke&name=One Stroke
-game:id=blind_escape_game_landscape&name=Dark Path
 game:id=level_devil_trap_game_landscape&name=Level Devil
-game:id=level_devil_game_landscape&name=Level Devil game
 game:id=paint_sponges_puzzle_landscape&name=Paint Sponges
 game:id=rescue_dog&name=Rescue Dog
 game:id=jump_ball_landscape&name=Jump Ball
@@ -106,7 +83,6 @@ game:id=mine_rusher&name=Mine Rusher
 game:id=monster_rush_landscape&name=Monster Rush
 game:id=sling_tomb&name=Sling Tomb
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
-game:id=happy_filled_glass_2&name=Happy Filled Glass 2
 game:id=garden_match_saga&name=Garden Match Saga
 game:id=citybuilder&name=City Builder
 game:id=dropnmerge&name=Drop Merge

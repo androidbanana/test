@@ -84,3 +84,4 @@ game:id=lolo_adventure_landscape_landscape&name=Lolo Adventure
 game:id=crazy_fishing&name=Crazy Fishing
 game:id=blockpuzzleblast&name=Block Puzzle
 game:id=sheep&name=Sheep Sheep
+game:id=georush&name=Geometry Rash

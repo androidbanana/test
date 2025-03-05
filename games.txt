@@ -1,4 +1,4 @@
-ver=5
+ver=6
 game:id=blockpuzzleblast&name=Block Puzzle
 game:id=sheep&name=Sheep Sheep
 game:id=geometry_rash_landscape&name=Geometry Rash

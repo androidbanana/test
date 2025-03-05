@@ -85,3 +85,4 @@ game:id=crazy_fishing&name=Crazy Fishing
 game:id=blockpuzzleblast&name=Block Puzzle
 game:id=sheep&name=Sheep Sheep
 game:id=geometry_rash_landscape&name=Geometry Rash
+game:id=sandy_balls&name=Sandy Balls

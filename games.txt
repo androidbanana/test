@@ -1,6 +1,6 @@
-ver=6
-game:id=blockpuzzleblast&name=Block Puzzle
+ver=7
 game:id=sheep&name=Sheep Sheep
+game:id=blockpuzzleblast&name=Block Puzzle
 game:id=geometry_rash_landscape&name=Geometry Rash
 game:id=lolo_adventure_landscape_landscape&name=Lolo Adventure
 game:id=crazy_fishing&name=Crazy Fishing

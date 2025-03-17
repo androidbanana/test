@@ -1,4 +1,4 @@
-ver=7
+ver=8
 game:id=sheep&name=Sheep Sheep
 game:id=blockpuzzleblast&name=Block Puzzle
 game:id=geometry_rash_landscape&name=Geometry Rash
@@ -14,7 +14,6 @@ game:id=color_connect_2&name=Color Connect
 game:id=tilemaster&name=Tile Master
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
 game:id=garden_match_saga&name=Garden Match Saga
-game:id=citybuilder&name=City Builder
 game:id=dropnmerge&name=Drop Merge
 game:id=dogeblocks&name=Doge Blocks
 game:id=jackogunner&name=Jack'o Gunner

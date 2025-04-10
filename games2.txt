@@ -1,0 +1,60 @@
+game:id=geometry_rash_landscape&name=Geometry Rash
+game:id=crazy_fishing&name=Crazy Fishing
+game:id=finish_the_drawing&name=Finish Drawing
+game:id=spot&name=Spot Difference
+game:id=gladiators&name=Gladiators
+game:id=popcorn_eater&name=Popcorn Eater
+game:id=plane&name=Plane Shooter
+game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
+game:id=citybuilder&name=City Builder
+game:id=jackogunner&name=Jack'o Gunner
+game:id=skater_boy_journey_landscape&name=Skater Boy
+game:id=happy_filled_glass_2&name=Happy Filled Glass 2
+game:id=happy_filled_glass_3&name=Happy Filled Glass 3
+game:id=garden_match_saga&name=Garden Match Saga
+game:id=one_movement&name=One Movement
+game:id=mergeshooter&name=Merge Shooter
+game:id=pushdomfruitblast&name=Push Fruit
+game:id=fruit_crusher&name=Fruit Crusher
+game:id=monster_rush_landscape&name=Monster Rush
+game:id=MergeCashPuzzle&name=Merge Cash
+game:id=ping_pong_prodigy&name=PingPong Prodigy
+game:id=hexadice&name=Hexa Dice
+game:id=seek_find&name=Seek Find
+game:id=pipepath_connect&name=PipePath Connect
+game:id=turtlelines&name=Turtle Lines
+game:id=combine_blocks&name=Combine Blocks
+game:id=flappy&name=Flappy Copter
+game:id=rope_bawling_2&name=Rope Bawling 2
+game:id=milk_for_cat&name=Milk For Cat
+game:id=arkanoid_blocks&name=Arkanoid Blocks
+game:id=cut_for_cat_2&name=Cut For Cat 2
+game:id=charge_everything&name=Charge Everything
+game:id=cubic_lands&name=Cubic Lands
+game:id=enemy_strike&name=Enemy Strike
+game:id=piggy_bank&name=Piggy Bank
+game:id=micro_golf_ball_2&name=Micro Golf Ball 2
+game:id=move_the_pin_2&name=Move The Pin 2
+game:id=impulse_ball&name=Impulse Ball
+game:id=impulse_ball_2&name=Impulse Ball 2
+game:id=golf_day&name=Golf Day
+game:id=golf_field&name=Golf Field
+game:id=fruits_galaxy&name=Fruits Galaxy
+game:id=route_digger&name=Route Digger
+game:id=route_digger_2&name=Route Digger 2
+game:id=two_friends&name=Two Friends
+game:id=mouse&name=Mouse
+game:id=space&name=Space
+game:id=red_golf&name=Red Golf
+game:id=disk_throw&name=Disk Throw
+game:id=white_dot&name=White Dot
+game:id=f2&name=Filled Glass 2
+game:id=f3&name=Filled Glass 3
+game:id=f4&name=Filled Glass 4
+game:id=f5&name=Filled Glass 5
+game:id=rabbitcarrot&name=RabbitCarrot
+game:id=golf_field_2&name=Golf Field 2
+game:id=paint_sponges_puzzle_landscape&name=Paint Sponges
+game:id=rescue_dog&name=Rescue Dog
+game:id=mine_rusher&name=Mine Rusher
+game:id=color_block_puzzle&name=Color Block

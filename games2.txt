@@ -1,4 +1,4 @@
-ver=6
+ver=9
 game:id=geometry_rash_landscape&name=Geometry Rash
 game:id=crazy_fishing&name=Crazy Fishing
 game:id=finish_the_drawing&name=Finish Drawing

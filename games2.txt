@@ -7,7 +7,6 @@ game:id=gladiators&name=Gladiators
 game:id=popcorn_eater&name=Popcorn Eater
 game:id=plane&name=Plane Shooter
 game:id=tiny_crash_fighters2_landscape&name=Tiny Crash Fighters
-game:id=citybuilder&name=City Builder
 game:id=jackogunner&name=Jack'o Gunner
 game:id=skater_boy_journey_landscape&name=Skater Boy
 game:id=happy_filled_glass_2&name=Happy Filled Glass 2
